@@ -40,8 +40,8 @@
     "template": "@@@COMMON@@@/grub-template.conf",
     "base_cmdline": {
       "sn": "",
-      "vid": "0x46f4",
-      "pid": "0x0001",
+      "vid": "0x0781",
+      "pid": "0x5571",
       "mac1": "",
       "netif_num": 1,
 
